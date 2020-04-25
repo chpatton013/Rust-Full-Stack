@@ -150,6 +150,11 @@ Golang
 
 Rust 
 
+Include regex to the production code and test it work with with-javascript/
+
+* https://docs.rs/regex/1.3.7/regex/
+* https://github.com/rust-lang/regex
+* https://rust-lang-nursery.github.io/rust-cookbook/text/regex.html
 * IFPS, read the code and test it.
 ```
 
