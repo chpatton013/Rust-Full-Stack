@@ -133,6 +133,7 @@ These are from others that I thought useful.
 * [Rust bin template](https://github.com/dpc/rust-bin-template)
 * [SQL async](https://github.com/launchbadge/sqlx)
 * [inline-python](https://github.com/fusion-engineering/inline-python)
+* [duplicate](https://github.com/Emoun/duplicate)
 
 ## CLI tools
 
