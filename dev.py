@@ -10,12 +10,14 @@ import subprocess as cmd
 # https://doc.rust-lang.org/std/macro.eprintln.html
 # https://doc.rust-lang.org/std/macro.dbg.html
 
-response = input("Cargo [c]heck, [r]un or [l]og?\n")
+response = input("Cargo [c]heck, [r]un, [b]inary file made before or [l]og?\n")
 
 if response.startswith("c"):
     cp = cmd.run(f"cargo watch -x 'check --bin main'", check=True, shell=True)
 elif response.startswith("r"):
     cp = cmd.run(f"cargo watch -x 'run --bin main'", check=True, shell=True)
+elif response.startswith("b"):
+    cp = cmd.run(f"cp target/debug/main main && ./main", check=True, shell=True)
 else:
     log_type = input("What do you want to log(debug)?\n")
     default = "debug"
