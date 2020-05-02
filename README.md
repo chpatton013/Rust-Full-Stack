@@ -134,6 +134,7 @@ These are from others that I thought useful.
 * [SQL async](https://github.com/launchbadge/sqlx)
 * [inline-python](https://github.com/fusion-engineering/inline-python)
 * [duplicate](https://github.com/Emoun/duplicate)
+* [mobc and warp error handler](https://blog.logrocket.com/create-an-async-crud-web-service-in-rust-with-warp/)
 
 ## CLI tools
 
