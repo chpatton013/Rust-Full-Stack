@@ -106,9 +106,7 @@ Test projects here or read [the Rust blog posts at Steadylearner][Steadylearner 
 
 [![Rust full stack chat app](https://www.steadylearner.com/static/images/post/web/full-stack-rust-chat-app-by-steadylearner.png)](https://www.steadylearner.com/blog/read/Fullstack-Rust-with-Yew)
 
-## Interesting Projects
-
-These are from others that I thought useful.
+## Interesting Projects from others
 
 * [envconfig-rs](https://github.com/greyblake/envconfig-rs)
 * [Redelete](https://github.com/ardeaf/redelete)
@@ -140,6 +138,10 @@ These are from others that I thought useful.
 
 * [bat](https://github.com/sharkdp/bat)
 
+## Blog Posts from others
+
+* [Learn how to use mobc and use thiserror with recover(warp error handler)](https://blog.logrocket.com/create-an-async-crud-web-service-in-rust-with-warp/) andcompare mobc with [sqlx](https://github.com/launchbadge/sqlx)
+
 ## The current state of this repository
 
 These are lists of what I should prototype. I also write production projects in the separate private repository. So, it will be updated when only necessary.
@@ -158,6 +160,10 @@ Include regex to the production code and test it work with with-javascript/
 * https://github.com/rust-lang/regex
 * https://rust-lang-nursery.github.io/rust-cookbook/text/regex.html
 * IFPS, read the code and test it.
+
+Python
+
+Test FastAPI with Docker and see its speed with loadtest.
 ```
 
 ## Contact
