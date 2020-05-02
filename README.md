@@ -140,7 +140,7 @@ Test projects here or read [the Rust blog posts at Steadylearner][Steadylearner 
 
 ## Blog Posts from others
 
-* [Learn how to use mobc and use thiserror with recover(warp error handler)](https://blog.logrocket.com/create-an-async-crud-web-service-in-rust-with-warp/) andcompare mobc with [sqlx](https://github.com/launchbadge/sqlx)
+* [Learn how to use mobc and use thiserror with recover(warp error handler)](https://blog.logrocket.com/create-an-async-crud-web-service-in-rust-with-warp/) and compare mobc with [sqlx](https://github.com/launchbadge/sqlx)
 
 ## The current state of this repository
 
