@@ -129,10 +129,10 @@ Test projects here or read [the Rust blog posts at Steadylearner][Steadylearner 
 * [Loadtest example](https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a)
 * [Web crawler in Rust](https://rolisz.ro/2020/03/01/web-crawler-in-rust/)
 * [Rust bin template](https://github.com/dpc/rust-bin-template)
-* [SQL async](https://github.com/launchbadge/sqlx)
+* SQL async [sqlx](https://github.com/launchbadge/sqlx) or [mobc](https://github.com/importcjj/mobc)
 * [inline-python](https://github.com/fusion-engineering/inline-python)
 * [duplicate](https://github.com/Emoun/duplicate)
-* [mobc and warp error handler](https://blog.logrocket.com/create-an-async-crud-web-service-in-rust-with-warp/)
+* [async diesel](https://lib.rs/crates/async-diesel) or [tokio-diesel](https://lib.rs/crates/tokio-diesel)
 
 ## CLI tools
 
