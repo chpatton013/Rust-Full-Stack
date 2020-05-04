@@ -147,11 +147,6 @@ Test projects here or read [the Rust blog posts at Steadylearner][Steadylearner 
 These are lists of what I should prototype. I also write production projects in the separate private repository. So, it will be updated when only necessary.
 
 ```console
-Golang
-
-* Make concurrent requests with go channels for targets. 
-* Make a web project with bbolt.
-
 Rust 
 
 Include regex to the production code and test it work with with-javascript/
@@ -164,6 +159,11 @@ Include regex to the production code and test it work with with-javascript/
 Python
 
 Test FastAPI with Docker and see its speed with loadtest.
+
+Golang
+
+* Make concurrent requests with go channels for targets. 
+* Make a web project with bbolt.
 ```
 
 ## Contact
@@ -173,7 +173,7 @@ Test FastAPI with Docker and see its speed with loadtest.
 
 ## The reason to use this repository
 
-**Everything is simple with examples but it is not easy to make them with Rust.** Use code here and spare your time. 
+Everything is simple with examples but it is not easy to make them with Rust.** Use code here and spare your time.** 
 
 Help others to have more examples with [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HLNVQJ2L2YYZU).
 
