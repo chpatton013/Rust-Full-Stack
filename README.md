@@ -152,6 +152,7 @@ Rust
 
 Include regex to the production code and test it work at with-javascript/
 
+* Should find how to use thiserror, (anyhow), to handle errors for Warp with database to make autorization process.
 * https://docs.rs/regex/1.3.7/regex/
 * https://github.com/rust-lang/regex
 * https://rust-lang-nursery.github.io/rust-cookbook/text/regex.html
@@ -160,7 +161,6 @@ Include regex to the production code and test it work at with-javascript/
 Python
 
 * Test FastAPI with Docker and see its speed with loadtest.
-* Moviepy code to cut videos with specific range.
 
 Golang
 
