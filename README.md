@@ -133,6 +133,7 @@ Test projects here or read [the Rust blog posts at Steadylearner][Steadylearner 
 * [inline-python](https://github.com/fusion-engineering/inline-python)
 * [duplicate](https://github.com/Emoun/duplicate)
 * [async diesel](https://lib.rs/crates/async-diesel) or [tokio-diesel](https://lib.rs/crates/tokio-diesel)
+* [thiserror](https://github.com/dtolnay/thiserror), [anyhow](https://github.com/steadylearner/anyhow) and [try blocks](https://doc.rust-lang.org/nightly/unstable-book/language-features/try-blocks.html) to [handle errors in Rust](https://blog.yoshuawuyts.com/error-handling-survey/)
 
 ## CLI tools
 
