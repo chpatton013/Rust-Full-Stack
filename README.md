@@ -161,6 +161,8 @@ Include regex to the production code and test it work at with-javascript/
 Python
 
 * Test FastAPI with Docker and see its speed with loadtest.
+* Refer to this to structure app.
+* (https://github.com/eightBEC/fastapi-ml-skeleton)
 
 Golang
 
