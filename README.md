@@ -149,7 +149,7 @@ These are lists of what I should prototype. I also write production projects in 
 ```console
 Rust 
 
-Include regex to the production code and test it work with with-javascript/
+Include regex to the production code and test it work at with-javascript/
 
 * https://docs.rs/regex/1.3.7/regex/
 * https://github.com/rust-lang/regex
@@ -173,7 +173,9 @@ Golang
 
 ## The reason to use this repository
 
-Everything is simple with examples but it is not easy to make them with Rust.** Use code here and spare your time.** 
+Everything is simple with examples but it is not easy to make them with Rust.
+
+**Use code here and spare your time.** 
 
 Help others to have more examples with [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HLNVQJ2L2YYZU).
 
