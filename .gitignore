@@ -78,6 +78,10 @@ React_Rust/server/*/public/
 
 # Bots should be in production/
 
+# video files for Moviepy/
+
+*.mp4
+
 praw/
 graw/
 read/

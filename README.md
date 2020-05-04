@@ -159,7 +159,8 @@ Include regex to the production code and test it work at with-javascript/
 
 Python
 
-Test FastAPI with Docker and see its speed with loadtest.
+* Test FastAPI with Docker and see its speed with loadtest.
+* Moviepy code to cut videos with specific range.
 
 Golang
 
